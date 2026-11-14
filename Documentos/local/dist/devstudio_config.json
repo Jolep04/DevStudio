@@ -1,0 +1,23 @@
+{
+    "php_exe": "C:\\php\\php.exe",
+    "mysqld_exe": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqld.exe",
+    "mysql_exe": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysql.exe",
+    "mysqladmin_exe": "C:\\Program Files\\MySQL\\MySQL Server 8.0\\bin\\mysqladmin.exe",
+    "composer_exe": "composer",
+    "puerto_php": "8000",
+    "ruta_actual": "C:/Users/josex/Documentos/local",
+    "proyectos_guardados": [
+        "C:/Users/josex/Documentos/local",
+        "C:\\Documentos\\local"
+    ],
+    "perfiles_mysql": {
+        "Root (Admin)": {
+            "user": "root",
+            "pass": "Likxusub.13"
+        },
+        "Laravel User": {
+            "user": "laravelUser",
+            "pass": "LarVel.@10"
+        }
+    }
+}
